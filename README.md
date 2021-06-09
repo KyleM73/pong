@@ -9,7 +9,7 @@ This is the classic game of pong. To play, run
 python3 pong.py
 ```
 
-This will start 1-player mode. The bot is on the left, the player is on the right. To oberve two bots playing against each other, change the last line in **pong.py** from
+This will start 1-player mode. The bot is on the left, the player is on the right. Play using the up and down arrow keys. To oberve two bots playing against each other, change the last line in **pong.py** from
 
 ```python
 g = pong_game("player",True)
