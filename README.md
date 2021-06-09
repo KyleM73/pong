@@ -1,8 +1,9 @@
 # pong
 
+![game play](pong.jpg)
+
 ## Usage
 
-![game play](pong.jpg)
 This is the classic game of pong. To play, run
 
 ```
