@@ -27,7 +27,7 @@ There's a variety of knobs that can be tuned in pong_game.__init__() to change t
 
 ## Setup
 Built with:
-* python3.9
+* python3.9.5
 * numpy 1.20.3
 * pygame 2.0.1
 
